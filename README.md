@@ -6,7 +6,7 @@
 <h3 align="center">A passionate full stack developer from BIH</h3>
 
 - 🔭 I’m currently working on...my own E-commerce store
-- 👀 I’m interested in ...Wordpress,PHP and Node.js
+- 👀 I’m interested in ...Wordpress,PHP 
 - 🌱 I’m currently learning ...React.js and PHP 8
 - 🤝 I’m looking for help with...AWS
 - 💬 Ask me about ...Anything
