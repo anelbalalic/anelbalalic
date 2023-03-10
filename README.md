@@ -10,9 +10,9 @@
  [![Mail Badge](https://img.shields.io/badge/-anelbalalic-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anel.balalic@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-Anel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anelbalalic/)
 
-- 🔭 I’m currently working on...my own E-commerce store
+- 🔭 I’m currently working on...my own projects
 - 👀 I’m interested in ...Wordpress,PHP 
-- 🌱 I’m currently learning ...React.js and PHP 8
+- 🌱 I’m currently learning ...React.js and AWS
 - 🤝 I’m looking for help with...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me **anel.balalic@gmail.com**
