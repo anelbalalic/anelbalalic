@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on...my own projects
 - 👀 I’m interested in ...Wordpress,PHP 
-- 🌱 I’m currently learning ...React.js and AWS
+- 🌱 I’m currently learning ...React.js and Devops(mentorship program)-AWS
 - 🤝 I’m looking for help with...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me **anel.balalic@gmail.com**
